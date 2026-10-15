@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color: #8729de;
+    background-color: #dcdfdf;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px;
+    width: 300px;
+    margin: 20px auto;
+    border: 2px solid #9C27B0;
+}
+
+.stored-data {
+    text-align: center;
+}
